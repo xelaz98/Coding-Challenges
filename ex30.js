@@ -33,4 +33,4 @@ const runAsync = fn => {
   runAsync(() => 10 ** 3).then(console.log); // 1000
   let outsideVariable = 50; 
   runAsync(() => typeof outsideVariable).then(console.log); // 'undefined'       
-  
+   
