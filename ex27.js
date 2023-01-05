@@ -33,4 +33,4 @@ function longest_substring_without_repeating_characters(input) {
     console.log(longest_substring_without_repeating_characters("google.com")); 
        
     console.log(longest_substring_without_repeating_characters("example.com")); 
-       
+        
