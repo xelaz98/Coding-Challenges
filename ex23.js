@@ -15,4 +15,4 @@ function char_count(str, letter)
   return letter_Count;
 }
 
-console.log(char_count('w3resource.com', 'o'));
+console.log(char_count('w3resource.com', 'o')); 
