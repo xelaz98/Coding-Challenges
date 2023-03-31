@@ -16,3 +16,4 @@ function char_count(str, letter)
 }
 
 console.log(char_count('w3resource.com', 'o')); 
+ 
