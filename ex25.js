@@ -24,5 +24,5 @@ function bubble_Sort(a)
     } while (swapp);
  return x;  
 } 
-  
+   
 console.log(bubble_Sort([12, 345, 4, 546, 122, 84, 98, 64, 9, 1, 3223, 455, 23, 234, 213]));
