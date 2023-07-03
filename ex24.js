@@ -24,5 +24,5 @@ function find_FirstNotRepeatedChar(str) {
     }
     return result;
   }
-  console.log(find_FirstNotRepeatedChar('abacddbec')); 
+  console.log(find_FirstNotRepeatedChar('abacddbec'));  
   
