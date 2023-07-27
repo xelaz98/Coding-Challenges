@@ -26,7 +26,7 @@ const runAsync = fn => {
       }
     }
     return result;
-  };  
+  };   
   /*
   */     
   runAsync(longRunningFunction).then(console.log); // 209685000000
