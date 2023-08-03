@@ -22,7 +22,7 @@ function find_FirstNotRepeatedChar(str) {
         break;
       }
     }
-    return result;
+    return result; 
   }
   console.log(find_FirstNotRepeatedChar('abacddbec'));  
   
