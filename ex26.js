@@ -9,5 +9,5 @@ function Longest_Country_Name(country_name)
     return lname.length > country.length ? lname : country;
   }, 
 "");
-}     
+}      
 console.log(Longest_Country_Name(["Australia", "Germany", "United States of America"]));
