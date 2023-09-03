@@ -13,7 +13,7 @@ function find_FirstNotRepeatedChar(str) {
       for (var y = 0; y < arra1.length; y++) 
       {
         if (arra1[x] === arra1[y]) {
-          ctr+= 1;
+          ctr+= 1; 
         }
       }
    
