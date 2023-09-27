@@ -7,4 +7,4 @@ const omitBy = (obj, fn) =>
     .reduce((acc, key) => ((acc[key] = obj[key]), acc), {});
 
 console.log(omitBy({ a: 1, b: '2', c: 3 }, x => typeof x === 'number'));  
-         
+          
